@@ -205,10 +205,12 @@ footer {
     font-size: 0.8rem;
   }
   .pie1 img {
-    width: 130px;
+    width: 250px;
+    padding-bottom: 20px;
   }
   .pie3 {
     font-size: 12px;
+    flex-direction: column;
   }
 }
 @media (max-width: 768px) {
