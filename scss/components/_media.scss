@@ -69,10 +69,6 @@
       padding-bottom: 20px;
     }
   }
-  .pie3 {
-    font-size: 12px;
-    flex-direction: column;
-  }
 }
 @mixin espacio40 {
   padding-top: 40px;
@@ -113,6 +109,10 @@
     h2 {
       font-size: 0.9rem;
     }
+  }
+  .pie3 {
+    font-size: 12px;
+    flex-direction: column;
   }
 
   .marcas1 {

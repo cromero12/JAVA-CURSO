@@ -208,10 +208,6 @@ footer {
     width: 250px;
     padding-bottom: 20px;
   }
-  .pie3 {
-    font-size: 12px;
-    flex-direction: column;
-  }
 }
 @media (max-width: 768px) {
   .nav1 {
@@ -237,6 +233,10 @@ footer {
 @media (max-width: 576px) {
   .main1 h2 {
     font-size: 0.9rem;
+  }
+  .pie3 {
+    font-size: 12px;
+    flex-direction: column;
   }
   .marcas1 {
     padding-left: 0px;
