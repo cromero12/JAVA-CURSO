@@ -40,7 +40,6 @@
       "main"
       "footer";
   }
-
   .presentacion {
     grid-area: pres;
     display: grid;
@@ -113,7 +112,6 @@
     padding-left: 0px;
     justify-content: center;
   }
-
   .listproductos {
     @include espacio0;
   }
