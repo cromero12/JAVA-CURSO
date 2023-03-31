@@ -306,6 +306,11 @@ footer {
   }
   .localidades {
     margin-right: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .localidades h4 {
+    font-size: 0.7rem;
   }
   .pie3 {
     font-size: 12px;
