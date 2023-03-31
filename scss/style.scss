@@ -1,9 +1,9 @@
-@import "./components/variables";
-@import "./components/nav";
-@import "./components/index";
-@import "./components/footer";
-@import "./components/media";
-@import "./components/productos";
-@import "./components/servicios";
-@import "./components/marcas";
-
+@import "./base/reset";
+@import "./utils/variables";
+@import "./layout/nav";
+@import "./pages/index";
+@import "./layout/footer";
+@import "./utils/media";
+@import "./pages/productos";
+@import "./pages/servicios";
+@import "./pages/marcas";
