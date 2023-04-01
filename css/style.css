@@ -176,148 +176,6 @@ footer {
   color: rgb(216, 216, 216);
 }
 
-@media (max-width: 3000px) {
-  .marca1 img {
-    width: 400px;
-  }
-  .marca1 p {
-    font-size: 1.3rem;
-  }
-}
-@media (max-width: 1160px) {
-  .main1 {
-    grid-template-areas: "marcas" "pres";
-  }
-  .main1 h2 {
-    font-size: 1.3rem;
-  }
-  .infoservicios {
-    flex-wrap: wrap;
-    justify-content: center;
-  }
-  .marca1 img {
-    width: 300px;
-  }
-  .marca1 p {
-    font-size: 1rem;
-  }
-}
-@media (max-width: 890px) {
-  .gridconteiner {
-    grid-template-areas: "header" "main" "footer";
-  }
-  .presentacion {
-    grid-area: pres;
-    display: grid;
-    grid-template-areas: "productos" "servicios" "contacto";
-    padding-bottom: 50px;
-  }
-  .main1 h2 {
-    font-size: 1.1rem;
-  }
-  .marca1 img {
-    width: 200px;
-  }
-  .marca1 p {
-    font-size: 0.8rem;
-  }
-  .pie1 img {
-    width: 250px;
-    padding-bottom: 20px;
-  }
-}
-@media (max-width: 768px) {
-  .nav1 {
-    display: none;
-  }
-  .marca1 {
-    flex-wrap: wrap;
-    justify-content: center;
-  }
-  .marca1 img {
-    width: 300px;
-  }
-  .marca1 img {
-    width: 250px;
-  }
-  .marca1 h3 {
-    display: none;
-  }
-  .order {
-    order: -1;
-  }
-}
-@media (max-width: 576px) {
-  .main1 h2 {
-    font-size: 0.9rem;
-  }
-  .marcas1 {
-    padding-left: 0px;
-    justify-content: center;
-  }
-  .listproductos {
-    padding: 0;
-  }
-  .listproductos ul {
-    padding: 0;
-  }
-  .listproductos2 {
-    padding: 0;
-  }
-  .listproductos2 ul {
-    padding: 0;
-  }
-  .listproductos3 {
-    padding: 0;
-  }
-  .listproductos3 ul {
-    padding: 0;
-  }
-  .listproductos4 {
-    padding: 0;
-  }
-  .listproductos4 ul {
-    padding: 0;
-  }
-  .tituloproductos {
-    padding: 0%;
-    padding-top: 40px;
-    padding-bottom: 40px;
-  }
-  .tituloproductos h2 {
-    text-align: center;
-  }
-  .tituloservicios {
-    padding: 0%;
-    padding-top: 40px;
-    padding-bottom: 40px;
-  }
-  .tituloservicios h2 {
-    text-align: center;
-  }
-  .listservicios {
-    margin-right: 0px;
-  }
-  .tituloservicios {
-    text-align: center;
-  }
-  .infoservicios {
-    margin-right: 0px;
-  }
-  .localidades {
-    margin-right: 0px;
-    padding-left: 10px;
-    padding-right: 10px;
-    padding-bottom: 25px;
-  }
-  .localidades h4 {
-    font-size: 1rem;
-  }
-  .pie3 {
-    font-size: 12px;
-    flex-wrap: wrap;
-  }
-}
 .main3 {
   display: grid;
   min-height: 100vh;
@@ -492,6 +350,9 @@ footer {
   color: rgb(216, 216, 216);
   text-align: center;
 }
+.listservicios2 span {
+  font-size: 1.5rem;
+}
 .listservicios2 iframe {
   padding-top: 50px;
   position: absolute;
@@ -536,6 +397,151 @@ footer {
 .marca1 p {
   padding: 2px;
   margin: 2px;
+}
+
+@media (max-width: 3000px) {
+  .marca1 img {
+    width: 400px;
+  }
+  .marca1 p {
+    font-size: 1.3rem;
+  }
+}
+@media (max-width: 1160px) {
+  .main1 {
+    grid-template-areas: "marcas" "pres";
+  }
+  .main1 h2 {
+    font-size: 1.3rem;
+  }
+  .infoservicios {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .marca1 img {
+    width: 300px;
+  }
+  .marca1 p {
+    font-size: 1rem;
+  }
+}
+@media (max-width: 890px) {
+  .gridconteiner {
+    grid-template-areas: "header" "main" "footer";
+  }
+  .presentacion {
+    grid-area: pres;
+    display: grid;
+    grid-template-areas: "productos" "servicios" "contacto";
+    padding-bottom: 50px;
+  }
+  .main1 h2 {
+    font-size: 1.1rem;
+  }
+  .marca1 img {
+    width: 200px;
+  }
+  .marca1 p {
+    font-size: 0.8rem;
+  }
+  .pie1 img {
+    width: 200px;
+    padding-bottom: 20px;
+  }
+}
+@media (max-width: 768px) {
+  .nav1 {
+    display: none;
+  }
+  .marca1 {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .marca1 img {
+    width: 300px;
+  }
+  .marca1 img {
+    width: 250px;
+  }
+  .marca1 h3 {
+    display: none;
+  }
+  .order {
+    order: -1;
+  }
+}
+@media (max-width: 576px) {
+  .main1 h2 {
+    font-size: 0.9rem;
+  }
+  .marcas1 {
+    padding-left: 0px;
+    justify-content: center;
+  }
+  .listproductos {
+    padding: 0;
+  }
+  .listproductos ul {
+    padding: 0;
+  }
+  .listproductos2 {
+    padding: 0;
+  }
+  .listproductos2 ul {
+    padding: 0;
+  }
+  .listproductos3 {
+    padding: 0;
+  }
+  .listproductos3 ul {
+    padding: 0;
+  }
+  .listproductos4 {
+    padding: 0;
+  }
+  .listproductos4 ul {
+    padding: 0;
+  }
+  .tituloproductos {
+    padding: 0%;
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+  .tituloproductos h2 {
+    text-align: center;
+  }
+  .tituloservicios {
+    padding: 0%;
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+  .tituloservicios h2 {
+    text-align: center;
+  }
+  .listservicios {
+    margin-right: 0px;
+  }
+  .listservicios2 span {
+    font-size: 0.9rem;
+  }
+  .tituloservicios {
+    text-align: center;
+  }
+  .infoservicios {
+    margin-right: 0px;
+  }
+  .localidades {
+    margin-right: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .localidades h4 {
+    font-size: 1rem;
+  }
+  .pie3 {
+    font-size: 12px;
+    flex-wrap: wrap;
+  }
 }
 
 /*# sourceMappingURL=style.css.map */
