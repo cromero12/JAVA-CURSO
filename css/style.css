@@ -308,6 +308,7 @@ footer {
     margin-right: 0px;
     padding-left: 10px;
     padding-right: 10px;
+    padding-bottom: 25px;
   }
   .localidades h4 {
     font-size: 1rem;
@@ -474,6 +475,7 @@ footer {
   display: flex;
   flex-wrap: wrap;
   gap: 0.2rem;
+  padding-bottom: 40px;
 }
 .localidades h4 {
   border: 1px solid white;
