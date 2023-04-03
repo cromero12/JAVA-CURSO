@@ -67,10 +67,7 @@ Puedes ver mi sitio ingresando aqui:
 <https://cromero12.github.io/proyectofinal-Romero/>
 
 
-## Autores
+## Autor
 
 Romero, Ismael Claudio
-Licencia
-Este proyecto está bajo la Licencia MIT. Para obtener más información, consulta el archivo LICENSE.
 
-Recuerda que este es solo un ejemplo básico, asegúrate de incluir toda la información relevante sobre tu proyecto y su funcionalidad en el README para que otros desarrolladores puedan entender y contribuir fácilmente.
