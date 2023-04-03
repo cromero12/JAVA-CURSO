@@ -1,6 +1,6 @@
 # Proyecto Final Coderhouse
 ## Descripción
-Este proyecto fue desarrollado para el curso de Desarrollo Web Full Stack de Coderhouse. Es una aplicación web que permite a los usuarios comprar y vender productos. El objetivo principal de este proyecto es demostrar los conocimientos adquiridos durante el curso y aplicarlos en la creación de una aplicación real.
+Mi nombre es Romero Ismael Claudio. Este proyecto fue realizado para el curso de Desarrollo Web de Coderhouse. El objetivo principal de este proyecto es demostrar los conocimientos adquiridos durante el curso y aplicarlos en la creación de una pagina web funcional tanto para desktop y mobile.
 
 ## Tecnologías Utilizadas
 HTML
