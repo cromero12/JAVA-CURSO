@@ -12,26 +12,46 @@ Importante: el sitio utiliza dependencias linkeadas a través de CDN. Es necesar
 
 ## Instalación
 
-Clona este repositorio en tu máquina local usando la siguiente URL: https://github.com/cromero12/proyectofinal-Romero.git
+
+Clona este repositorio en tu máquina local usando la siguiente URL: 
+```
+https://github.com/cromero12/proyectofinal-Romero.git
+```
 Abre una terminal en la carpeta raíz del proyecto.
-Ejecuta el comando npm install para instalar todas las dependencias.
-Ejecuta el comando npm run dev para iniciar el servidor local.
+```
+Ejecuta el comando **npm install** para instalar todas las dependencias.
+```
+```
+Ejecuta el comando **npm run dev** para iniciar el servidor local.
+```
 
 ## Estructura de archivos
 
 Las páginas se encuentran en la carpeta pages
 
-> /root
->    /pages
->	    contacto.html
->	    nuestrasmarcas.html
->      nuestrosservicios.html
->      productos.html
->	   /css
->      style.css    
->    /scss
->		  style.scss
-    index.html
+> /root 
+> 
+> 
+>>    /pages
+>    
+>>	    contacto.html
+>	    
+>> 	    nuestrasmarcas.html
+>	    
+>>      nuestrosservicios.html
+>      
+>>      productos.html
+>      
+>>	 /css
+>	   
+>>      style.css    
+>      
+>>   /scss
+>    
+>>		style.scss
+>		  
+>>   index.html
+    
 
 ## Capturas de Pantalla
 
