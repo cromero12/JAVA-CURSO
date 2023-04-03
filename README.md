@@ -2,8 +2,6 @@
 ## Descripción
 Este proyecto fue desarrollado para el curso de Desarrollo Web Full Stack de Coderhouse. Es una aplicación web que permite a los usuarios comprar y vender productos. El objetivo principal de este proyecto es demostrar los conocimientos adquiridos durante el curso y aplicarlos en la creación de una aplicación real.
 
-[![prueba.png](https://i.postimg.cc/ZRq5Dgd5/prueba.png)](https://postimg.cc/Jy98spxf)
-
 ## Tecnologías Utilizadas
 HTML
 CSS
@@ -29,10 +27,12 @@ Ver el historial de compras realizadas
 
 ## Capturas de Pantalla
 
-Captura de pantalla de la página de inicio
-Captura de pantalla de la página de inicio de sesión
-Captura de pantalla de la página de productos
-Captura de pantalla de la página de perfil
+### Captura de pantalla Version Desktop
+[![prueba.png](https://i.postimg.cc/ZRq5Dgd5/prueba.png)](https://postimg.cc/Jy98spxf)
+
+### Captura de pantalla Version Mobile
+[![leo-mobile.png](https://i.postimg.cc/6pjyPBk1/leo-mobile.png)](https://postimg.cc/YvFrGBq1)
+
 
 ## Contribución
 
