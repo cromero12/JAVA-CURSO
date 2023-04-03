@@ -63,9 +63,9 @@ Las páginas se encuentran en la carpeta pages
 
 ## Deploy
 Puedes ver mi sitio ingresando aqui:
-```
+
 <https://cromero12.github.io/proyectofinal-Romero/>
-```
+
 
 ## Autores
 
