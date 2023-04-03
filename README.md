@@ -61,7 +61,11 @@ Las páginas se encuentran en la carpeta pages
 ### Captura de pantalla Version Mobile
 [![leo-mobile.png](https://i.postimg.cc/6pjyPBk1/leo-mobile.png)](https://postimg.cc/YvFrGBq1)
 
-
+## Deploy
+Puedes ver mi sitio ingresando aqui:
+```
+https://cromero12.github.io/proyectofinal-Romero/
+```
 
 ## Autores
 
