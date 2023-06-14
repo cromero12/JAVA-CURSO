@@ -32,14 +32,17 @@ footer {
   }
 
   nav {
+    color: white;
     ul {
       text-decoration: none;
+      color: white;
     }
 
     li {
       padding: 20px;
       margin: 10px;
       list-style-type: none;
+      color: white;
       a {
         list-style-type: none;
         color: $color-principal;

@@ -367,15 +367,6 @@ footer {
   height: 100%;
 }
 
-.tuhermana {
-  font-weight: bold;
-  font-size: 30px;
-  text-align: center;
-  margin: 0;
-  margin-bottom: 20px;
-  letter-spacing: 3px;
-}
-
 .main2 {
   display: grid;
   min-height: 100vh;
@@ -574,7 +565,7 @@ body {
   --cfondo: rgb(207, 211, 212);
   --cfondoForm1: rgba(1, 80, 88, 0.39);
   --cfondoForm2: rgb(129, 193, 202);
-  --cnegro: rgb(196, 163, 19);
+  --cnegro: black;
   --ctexto: rgb(14, 81, 88);
   --ctextoDark: rgb(1, 35, 39);
   --cblanco: white;
@@ -603,14 +594,10 @@ body {
   padding: 30px 50px;
   margin: auto;
   margin-top: 10px;
-  background: linear-gradient(to left, rgb(46, 45, 45), rgb(14, 9, 9));
-}
-.form label {
-  color: white;
+  background: linear-gradient(0deg, var(--cfondoForm1) 0%, var(--cfondoForm2) 50%);
 }
 
 .form-titulo {
-  color: white;
   font-weight: bold;
   font-size: 30px;
   text-align: center;
@@ -620,19 +607,17 @@ body {
 }
 
 .form-input {
-  color: white;
   margin-bottom: 30px;
 }
 
 .form-input label {
-  color: white;
   display: block;
   margin-top: 10px;
   font-size: 15px;
+  color: var(--ctexto);
 }
 
 .form-input input {
-  color: white;
   width: 100%;
   border: none;
   outline: none;
@@ -690,4 +675,4 @@ body {
   font-weight: bold;
 }
 
-/*# sourceMappingURL=style.css.map */
+/*# sourceMappingURL=style.css~.map */
